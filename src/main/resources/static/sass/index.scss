@@ -1,0 +1,12 @@
+@import "./packages/sidebar/sidebar";
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.layout {
+  display: flex;
+  height: 100vh;
+  overflow: hidden;
+}

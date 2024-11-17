@@ -3,10 +3,13 @@
 body {
   margin: 0;
   font-family: Arial, sans-serif;
+  background-color: #1D2020;
+  color: white;
 }
 
 .layout {
   display: flex;
+  flex-direction: row;
   height: 100vh;
-  overflow: hidden;
 }
+

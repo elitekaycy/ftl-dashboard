@@ -21,7 +21,10 @@
   <body>
     <div class="layout">
       <@Sidebar.sidebar sidebarData=sidebarData />
-     <!-- <div class="info">hello world</div> -->
+      <div class="content">
+
+         content
+      </div>
     </div>
   </body>
 </html>
